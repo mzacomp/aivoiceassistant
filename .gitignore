@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.mp3
+*.m4a
+*.aiff
+02_audio/first_scenario/input/
+02_audio/second_scenario/input/
